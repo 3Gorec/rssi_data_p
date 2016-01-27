@@ -1,4 +1,4 @@
-package rssi_data;
+package rssi_data_p;
 
 
 import java.util.ArrayList;

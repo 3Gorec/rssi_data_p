@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package rssi_data;
+package rssi_data_p;
 
 import java.util.Arrays;
 
