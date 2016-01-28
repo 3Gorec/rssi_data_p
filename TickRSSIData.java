@@ -15,7 +15,7 @@ import java.util.ArrayList;
  */
 public class TickRSSIData{
     public long timestamp;
-    public ArrayList<RSSIData> rssi_data;                
+    public ArrayList<SnifferRSSIData> rssi_data;                
 
     public TickRSSIData(long timestamp){
         rssi_data=new ArrayList<>();            

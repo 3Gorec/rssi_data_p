@@ -11,13 +11,13 @@ import java.util.ArrayList;
  *
  * @author gorec
  */
-public class RSSIData {
+public class SnifferRSSIData {
     
     public int snifferId;
     public String SnifferName;
     public ArrayList<MACValueRecord>  records;
     
-    public RSSIData(int id, String name){
+    public SnifferRSSIData(int id, String name){
         records=new ArrayList<MACValueRecord>();
         snifferId=id;
         SnifferName=name;
